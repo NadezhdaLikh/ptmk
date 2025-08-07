@@ -10,9 +10,11 @@ This is a console-based Java application for working with employee data using Po
    - Update `src/main/resources/application.yml` if your settings differ (url, username, password properties in spring.datasource).
 
 2. **Build or Use Provided `.jar`**
+
    You can build the project yourself or use the provided jar file located at: target/ptmk-1.0.0.jar.
 
 4. **Run the App with Command-Line Parameters**
+
    The app requires parameters to be passed when running, for example:
 
    ```bash
